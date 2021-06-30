@@ -3,7 +3,7 @@ A Windows based program that gives voice reminder based on low, critical, maximu
 
 # Installation :
 
-1. Download all the files and extract/save in a folder (Give it any name) [All the files muat be in the same folder].
+1. Download all the files and extract/save in a folder (Give it any name) [All the files must be in the same folder].
 2. Create a shortcut of "Start_Launch_BAT.bat" file.
 3. Press "Win+R" from keyboard or, open windows run menu, then type "shell:startup" and press enter.
 4. Save the shortcut created in step-2 in the location which opens in step-3.
