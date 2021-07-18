@@ -33,16 +33,16 @@ echo.
 set /p tmp_sz="Enter SNOOZE TIME (in minute(s)) : "
 set /A tmp_sz=%tmp_sz%
 if %tmp_sz% LEQ 0 (goto :setSzTime)
-set /A low_level=%tmp_low%
-set /A cr_level=%tmp_cr%
-set /A max_level=%tmp_max%
-set /A sz_time=%tmp_sz% * 60
 set "choice=0"
 echo.
 set /p choice="Enter 1 to CONFIRM INITIALIZATION : "
 set /A choice=%choice%
 if %choice% EQU 1 (goto :confirm) else (goto :end)
 :confirm
+set /A low_level=%tmp_low%
+set /A cr_level=%tmp_cr%
+set /A max_level=%tmp_max%
+set /A sz_time=%tmp_sz% * 60
 echo %low_level%> Set_Battery_Level.txt
 echo %cr_level%>> Set_Battery_Level.txt
 echo %max_level%>> Set_Battery_Level.txt
