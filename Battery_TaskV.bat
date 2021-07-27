@@ -64,7 +64,7 @@ if %level% LSS %full_level% (
 :: Check Full Reminder Status
 :check_full
 if %full_not%==0 (goto :end)
-if %level% EQU %full_level% (
+if %level% GEQ %full_level% (
 	start Get_Full_Notify.vbs & goto :addV
 )
 goto :end
