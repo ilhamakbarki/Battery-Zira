@@ -2,4 +2,4 @@
 set "TAB=        "
 echo.
 echo %TAB%Starting BATTERY MONITOR ...
-start Welcome_TaskV.vbs
+start Run_BAT.vbs
