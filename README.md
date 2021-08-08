@@ -11,10 +11,10 @@ A Windows based program that gives voice reminder based on low, critical, maximu
 
 # Note :
 
-1) In order to set custom values, use "Custom_Battery_Level.bat" file.
-2) To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
-3) Only non-zero positive values are accepted for any parameter.
-4) The DEFAULT VALUES are:
+1. In order to set custom values, use "Custom_Battery_Level.bat" file.
+2. To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
+3. Only non-zero positive values are accepted for any parameter.
+4. The DEFAULT VALUES are:
 	a) Low battery level - 40 %
 	b) Critical battery level - 20 %
 	c) Maximum battery level - 80 %
