@@ -20,10 +20,10 @@ A Windows based program that gives voice reminder based on low, critical, maximu
 2. To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
 3. Only non-zero positive values are accepted for any parameter.
 4. The DEFAULT VALUES are:
-	- Low battery level - 40 %
-	- Critical battery level - 20 %
-	- Maximum battery level - 80 %
-	- Snooze time - 1 minute
+	* Low battery level - 40 %
+	* Critical battery level - 20 %
+	* Maximum battery level - 80 %
+	* Snooze time - 1 minute
 
 # Uninstallation :
 
