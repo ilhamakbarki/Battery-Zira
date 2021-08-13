@@ -2,7 +2,7 @@
 
 <p align=left>
 <img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support">
-<img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support" HSpace=20%>
+<img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support">
 </p>
 
 ![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)
