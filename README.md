@@ -7,7 +7,7 @@
 
 ![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)
 
-A Windows based program that gives voice reminder based on low, critical, maximum and fully charged battery levels in a laptop
+A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 # Installation :
 
