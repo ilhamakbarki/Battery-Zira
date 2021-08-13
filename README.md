@@ -30,5 +30,5 @@ A Windows based program that gives voice reminder based on low, critical, maximu
 
 # Uninstallation :
 
-1. Delete the `Launch_BAT.bat` *shortcut* from the location which opens in **step-3** of *Installation*.
+1. Delete the `Launch_BAT.bat` *shortcut* from the location which opens in **step-3** of ***Installation***.
 2. Restart the Computer.
