@@ -1,8 +1,9 @@
 # Battery-Zira
 
-![Platform Support](https://img.shields.io/badge/platform-windows-blue)
-
-![Device Support](https://img.shields.io/badge/device-laptop-orange)
+<p align=left>
+<img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support">
+<img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support" HSpace=20%>
+</p>
 
 ![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)
 
