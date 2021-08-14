@@ -10,10 +10,10 @@
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
-<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" vspace=10%>
-<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10px vspace=10%><br>
-<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" vspace=10%>
-<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10px vspace=10%>
+<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" vspace=10>
+<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10 vspace=10><br>
+<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" vspace=10>
+<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10 vspace=10>
 </p>
 
 # Installation :
