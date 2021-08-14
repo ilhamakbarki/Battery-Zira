@@ -1,12 +1,3 @@
-<style type="text/css">
-.border{
-	border-style: solid;
-	border-width: thin;
-	border-color: green;
-	border-radius: 10px;
-}
-</style>
-
 # Battery-Zira
 
 <p align=left>
@@ -19,10 +10,10 @@
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
-<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" class=border>
-<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" class=border><br>
-<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" class=border>
-<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" class=border>
+<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification">
+<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" Hspace=10px><br>
+<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification">
+<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" Hspace=10px>
 </p>
 
 # Installation :
