@@ -29,7 +29,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
 
 <p align=center>
-<br><img src="Custom_Value.jpg" alt="Set Custom Values"><br>
+<img src="Custom_Value.jpg" alt="Set Custom Values"><br>
 </p>
 
 + To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
