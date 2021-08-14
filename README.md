@@ -10,10 +10,10 @@
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
-<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" vspace="20">
-<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace="10" vspace="20"><br>
-<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" vspace="20">
-<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace="10" vspace="20">
+<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification">
+<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10><br>
+<br><img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification">
+<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=20>
 </p>
 
 # Installation :
@@ -27,6 +27,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 ## Note :
 
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
+<br><img src="Custom_Value.jpg" alt="Set Custom Values" align=center><br>
 + To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
 + Only non-zero positive values are accepted for any parameter.
 + The DEFAULT VALUES are:
