@@ -1,5 +1,3 @@
-# Battery-Zira
-
 <style type="text/css">
 .border{
 	border-style: solid;
@@ -8,6 +6,9 @@
 	border-radius: 10px;
 }
 </style>
+
+# Battery-Zira
+
 <p align=left>
 <img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support">
 <img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support">
