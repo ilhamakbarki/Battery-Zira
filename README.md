@@ -15,7 +15,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 </p>
 <p align=center>
 <img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10>
-<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10 vspace=10>
+<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" vspace=10>
 </p>
 
 # Installation :
