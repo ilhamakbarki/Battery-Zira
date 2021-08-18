@@ -1,21 +1,21 @@
 # Battery-Zira
 
 <p align=left>
-<img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support">
-<img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support">
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support"></a>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support"></a>
 </p>
 
-![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)
+[![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)](https://github.com/JustABeginning/Battery-Zira#JAB)
 
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
-<img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" hspace=10>
-<img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" hspace=10></a>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10></a>
 </p>
 <p align=center>
-<img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10>
-<img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10></a>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10></a>
 </p>
 
 # Installation :
@@ -31,7 +31,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
 
 <p align=center>
-<img src="Custom_Value.jpg" alt="Set Custom Values">
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Custom_Value.jpg" alt="Set Custom Values"></a>
 </p>
 
 + To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
