@@ -46,3 +46,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 1. Delete the `Launch_BAT.bat` *shortcut* from the location which opens in **step-3** of ***Installation***.
 2. Restart the Computer.
+
+# A Big Thanks To :
+
+[![Stargazers repo roster for @JustABeginning/Battery-Zira](https://reporoster.com/stars/JustABeginning/Battery-Zira)](https://github.com/JustABeginning/Battery-Zira/stargazers)
