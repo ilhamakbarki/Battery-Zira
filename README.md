@@ -26,6 +26,8 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 4. Save the shortcut created in **step-2** in the location which opens in **step-3**.
 5. Return back to the folder of **step-1** and click on `Launch_BAT.bat` file.
 
+:point_right: **Step-1** to **step-4** is shown below :point_down:
+
 <p align=center>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB">
 <img src="Install_Zira.gif" alt="Install Guide for Battery Zira (Windows)">
