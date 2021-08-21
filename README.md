@@ -18,7 +18,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10></a>
 </p>
 
-# Installation :
+# Installation
 
 1. [Download](https://github.com/JustABeginning/Battery-Zira/releases) all the files and extract/save them in a folder (Give it any name) [All the files must be in the same folder].
 2. Create a *shortcut* of `Launch_BAT.bat` file.
@@ -32,7 +32,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 </a>
 </p>
 
-## Note :
+## Note
 
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
 
@@ -48,7 +48,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 	+ Maximum battery level - 80 %
 	+ Snooze time - 1 minute
 
-# Uninstallation :
+# Uninstallation
 
 1. Delete the `Launch_BAT.bat` *shortcut* from the location which opens in **step-3** of ***Installation***.
 2. Restart the Computer.
