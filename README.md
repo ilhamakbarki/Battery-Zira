@@ -27,9 +27,9 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 5. Return back to the folder of **step-1** and click on `Launch_BAT.bat` file.
 
 <p align=center>
-<video height=400 width=500 src="Install_Zira.mp4" controls autoplay>
-Installation Guide for Battery Zira (Windows)
-</video>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB">
+<img src="Install_Zira.gif" alt="Install Guide for Battery Zira (Windows)">
+</a>
 </p>
 
 ## Note :
