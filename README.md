@@ -26,6 +26,12 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 4. Save the shortcut created in **step-2** in the location which opens in **step-3**.
 5. Return back to the folder of **step-1** and click on `Launch_BAT.bat` file.
 
+<p align=center>
+<video height=400 width=500 src="Install_Zira.mp4" type="video/mp4" controls autoplay>
+Installation Guide for Battery Zira (Windows)
+</video>
+</p>
+
 ## Note :
 
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
