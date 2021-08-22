@@ -9,6 +9,7 @@
 
 <p align=left>
 <a href="https://www.producthunt.com/posts/battery-zira-windows?utm_source=badge-review&utm_medium=badge&utm_souce=badge-battery-zira-windows#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309402&theme=light" alt="Battery Zira (Windows) - An incredible assistant for laptop battery | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUnusualCoderJAB%2Fstatus%2F1427815284648251398">
 </p>
 
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
