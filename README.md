@@ -3,6 +3,7 @@
 <p align=left>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support"></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support"></a>
+<a href="https://dev.to/justabeginning/battery-zira-windows-8m0"><img src="https://img.shields.io/badge/article-dev.to-brightgreen" alt="Brief Article"></a>
 </p>
 
 <p align=left>
