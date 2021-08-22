@@ -1,11 +1,14 @@
-# Battery-Zira [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUnusualCoderJAB)](https://twitter.com/UnusualCoderJAB/status/1427815284648251398)
+# Battery-Zira
 
 <p align=left>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support"></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support"></a>
 </p>
 
-[![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)](https://github.com/JustABeginning/Battery-Zira#JAB)
+<p align=left>
+<a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green" alt="Language Used"></a>
+<a href="https://twitter.com/UnusualCoderJAB/status/1427815284648251398"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUnusualCoderJAB" alt="Twitter URL"></a>
+</p>
 
 <p align=left>
 <a href="https://www.producthunt.com/posts/battery-zira-windows?utm_source=badge-review&utm_medium=badge&utm_souce=badge-battery-zira-windows#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309402&theme=light" alt="Battery Zira (Windows) - An incredible assistant for laptop battery | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
