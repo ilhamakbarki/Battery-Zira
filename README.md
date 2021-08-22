@@ -7,6 +7,10 @@
 
 [![Language Used](https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green)](https://github.com/JustABeginning/Battery-Zira#JAB)
 
+<p align=left>
+<a href="https://www.producthunt.com/posts/battery-zira-windows?utm_source=badge-review&utm_medium=badge&utm_souce=badge-battery-zira-windows#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309402&theme=light" alt="Battery Zira (Windows) - An incredible assistant for laptop battery | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
+
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
