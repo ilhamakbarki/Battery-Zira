@@ -20,6 +20,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Low_Notify.jpg" alt="Battery Low Notification" hspace=10></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10></a>
 </p>
+
 <p align=center>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10></a>
