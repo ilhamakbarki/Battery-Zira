@@ -4,7 +4,7 @@ Set zira=CreateObject("SAPI.spVoice")
 Set zira.voice=zira.GetVoices.Item(1)
 zira.Volume=100
 zira.speak "Battery low, you should connect the charger"
-intAns=obsh.Popup("Battery LOW! Wanna snooze this ?",10,"LOW Battery Alert !",3+64) 
+intAns=obsh.Popup("Battery LOW ! Wanna snooze this ?",10,"LOW Battery Alert !",3+64) 
 Set writeObj=myFSO.OpenTextFile("Set_LowCr_Rem.txt",2,true)
 Dim abort : abort=0
 If intAns=vbNo Then

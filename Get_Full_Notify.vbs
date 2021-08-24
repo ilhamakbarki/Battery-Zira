@@ -4,7 +4,7 @@ Set zira=CreateObject("SAPI.spVoice")
 Set zira.voice=zira.GetVoices.Item(1)
 zira.Volume=100
 zira.speak "Charge complete, you must disconnect the charger"
-intAns=obsh.Popup("Charge COMPLETE! Wanna snooze this ?",10,"Charge COMPLETE Alert !",3+48)
+intAns=obsh.Popup("Charge COMPLETE ! Wanna snooze this ?",10,"Charge COMPLETE Alert !",3+48)
 Set writeObj=myFSO.OpenTextFile("Set_MaxFl_Rem.txt",2,true)
 Dim abort : abort=0
 writeObj.writeLine("0")
