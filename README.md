@@ -4,12 +4,12 @@
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/platform-windows-blue" alt="Platform Support"></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/device-laptop-orange" alt="Device Support"></a>
 <a href="https://dev.to/justabeginning/battery-zira-windows-8m0"><img src="https://img.shields.io/badge/article-dev.to-brightgreen" alt="Brief Article"></a>
+<a href="https://twitter.com/UnusualCoderJAB/status/1427815284648251398"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUnusualCoderJAB" alt="Twitter URL"></a>
 </p>
 
 <p align=left>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="https://img.shields.io/badge/language-Batch%20Script%2C%20VBScript-green" alt="Language Used"></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JustABeginning/Battery-Zira"></a>
-<a href="https://twitter.com/UnusualCoderJAB/status/1427815284648251398"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FUnusualCoderJAB" alt="Twitter URL"></a>
 </p>
 
 <p align=left>
