@@ -12,10 +12,6 @@
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JustABeginning/Battery-Zira"></a>
 </p>
 
-<p align=left>
-<a href="https://www.producthunt.com/posts/battery-zira-windows?utm_source=badge-review&utm_medium=badge&utm_souce=badge-battery-zira-windows#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309402&theme=light" alt="Battery Zira (Windows) - An incredible assistant for laptop battery | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</p>
-
 A Windows based program that gives voice reminder based on *low*, *critical*, *maximum* and *fully charged* battery levels in a laptop
 
 <p align=center>
@@ -26,6 +22,10 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 <p align=center>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10></a>
 <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10></a>
+</p>
+
+<p align=left>
+<a href="https://www.producthunt.com/posts/battery-zira-windows?utm_source=badge-review&utm_medium=badge&utm_souce=badge-battery-zira-windows#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=309402&theme=light" alt="Battery Zira (Windows) - An incredible assistant for laptop battery | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </p>
 
 # Install
