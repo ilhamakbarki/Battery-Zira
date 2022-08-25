@@ -98,8 +98,8 @@ exit /b 0
 echo %tab%Installation FAILED !
 exit /b 0
 :dispSuccess
-echo.
 echo %tab%Installation COMPLETE !
+echo.
 exit /b 0
 :dispSkip
 echo %tab%Installation SKIPPED !
