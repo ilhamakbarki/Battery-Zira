@@ -31,7 +31,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 ## Install
 
-+ [Download](https://github.com/JustABeginning/Battery-Zira/releases) all the files and extract/save them in a folder (Give it any name) [All the files must be in the same folder].
++ [Download](https://github.com/JustABeginning/Battery-Zira/releases) the zip file and extract/save it in a folder (Give it any name) [All the extracted components must be in the same folder].
 
 ### Auto
 
