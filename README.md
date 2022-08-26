@@ -35,10 +35,12 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 ### Auto
 
+1. Go to the extracted folder.
 1. Click on `Install.bat` file.
 
 ### Manual
 
+1. Go to the extracted folder.
 1. Create a *shortcut* of `Launch_BAT.bat` file.
 1. Press `Win+R` from keyboard or, open windows run menu, then type `shell:startup` and press enter.
 1. Save the shortcut created in **step-2** in the location which opens in **step-3**.
