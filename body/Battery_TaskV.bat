@@ -107,7 +107,6 @@ if %chk_voice%==0 (
 set /A wait=%wait% + 10
 cmd /c Battery_LevelV.bat
 :end
-cmd /c System_Mode.bat
 ping 127.0.0.1 -n %wait% > nul
 goto :loop
 :stop

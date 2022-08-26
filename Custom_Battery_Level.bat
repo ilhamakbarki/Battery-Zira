@@ -1,6 +1,6 @@
 @echo off
 set /A low_level=40
-set /A cr_level=25
+set /A cr_level=20
 set /A max_level=80
 set /A sz_time=1
 set /A chk_voice=0
