@@ -5,7 +5,9 @@ Dim strPD : strPD = wshell.CurrentDirectory
 Set oLink = wshell.CreateShortcut(sLinkFile)
 Dim pathS : pathS = strPD & "\Launch_BAT.bat"
 If (fso.FileExists(pathS)) Then
-    oLink.TargetPath = pathS
-    oLink.WorkingDirectory = strPD
-    oLink.save
+	oLink.TargetPath = pathS
+	oLink.WorkingDirectory = strPD
+	oLink.save
 End If
+Set fso = Nothing
+Set wshell = Nothing

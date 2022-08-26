@@ -35,7 +35,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 ### Auto
 
-1. Click on `Install.bat`.
+1. Click on `Install.bat` file.
 
 ### Manual
 
@@ -75,7 +75,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 ### Auto
 
-1. Click on `Uninstall.bat`.
+1. Click on `Uninstall.bat` file.
 
 ### Manual
 

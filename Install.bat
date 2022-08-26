@@ -60,7 +60,7 @@ if %choice%==1 (
 )
 exit /b 0
 :execTask
-set "file=Create_ShortSLB.vbs"
+set "file=Create_ShortLB.vbs"
 if exist %file% (
 	wscript /nologo %file% & goto :oktp
 ) else (
