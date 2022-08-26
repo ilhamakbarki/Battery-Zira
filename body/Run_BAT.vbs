@@ -64,6 +64,11 @@ If checkV = 1 Then
     spkr.speak spk
     Set spkr = nothing
 End If
-wshell.Run chr(34) & "Battery_TaskV.bat" & Chr(34), 0
-Set spkr = nothing
+Dim batTV : batTV = "Battery_TaskV.bat"
+If (myFSO.FileExists(batTV)) Then
+    wshell.Run chr(34) & batTV & Chr(34), 0
+Else
+    WScript.Echo "File " & batTV & " NOT FOUND !"
+End If
+Set myFSO = nothing
 Set wshell = nothing

@@ -78,7 +78,6 @@ Else
 	End If
 End If
 writeObj.Close
-Set zira = nothing
 Set writeObj = nothing
 Set myFSO = nothing
 If abort = 1 Then

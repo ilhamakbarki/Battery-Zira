@@ -2,7 +2,7 @@
 @echo off
 set /A chk_voice=1
 set /A low_level=40
-set /A cr_level=25
+set /A cr_level=20
 set /A max_level=80
 set /A full_level=100
 set /A sz_time=60
@@ -20,8 +20,11 @@ if exist %setBL% (
 set /p chk_voice=< %setBL%
 set /A chk_voice=%chk_voice%
 :break
+set "batLV=Battery_LevelV.bat"
 if %chk_voice%==1 (
-	cmd /c Battery_LevelV.bat
+	if exist %batLV% (
+		cmd /c %batLV%
+	)
 )
 :loop
 if exist %setBL% (
@@ -105,7 +108,9 @@ if %chk_voice%==0 (
 )
 :: User prompts stay for 10s
 set /A wait=%wait% + 10
-cmd /c Battery_LevelV.bat
+if exist %batLV% (
+	cmd /c %batLV%
+)
 :end
 ping 127.0.0.1 -n %wait% > nul
 goto :loop
