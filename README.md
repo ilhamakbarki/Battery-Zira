@@ -16,12 +16,12 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 <table align=center>
  <tr align=center valign=middle>
-  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Low_Notify.jpg" alt="Battery Low Notification" hspace=10></a></td>
-  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Critical_Notify.jpg" alt="Battery Critical Notification" hspace=10></a></td>
+  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Low_Notify.jpg" alt="Battery Low Notification"></a></td>
+  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Critical_Notify.jpg" alt="Battery Critical Notification"></a></td>
  <tr>
  <tr align=center valign=middle>
-  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Max_Notify.jpg" alt="Battery Maximum Notification" hspace=10></a></td>
-  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Full_Notify.jpg" alt="Battery Full Notification" hspace=10></td>
+  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Max_Notify.jpg" alt="Battery Maximum Notification"></a></td>
+  <td><a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Battery_Full_Notify.jpg" alt="Battery Full Notification"></td>
  <tr>
 </table>
 
