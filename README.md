@@ -84,6 +84,10 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 1. Delete the `Launch_BAT.bat` *shortcut* from the location which opens in **step-3** of ***Install***.
 1. Restart the Computer.
 
+## 🧋 Contribution
+
+Pull requests and issue reports are welcome 😊 !
+
 ## :clap: A Big Thanks To
 
 ### Stargazers
