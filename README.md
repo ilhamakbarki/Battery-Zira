@@ -59,7 +59,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 + In order to set custom values, use `Custom_Battery_Level.bat` file.
 
 <p align=center>
- <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Custom_Value.jpg" alt="Set Custom Values" width=750 height=550></a>
+ <a href="https://github.com/JustABeginning/Battery-Zira#JAB"><img src="Images/Custom_Value.jpg" alt="Set Custom Values"></a>
 </p>
 
 + To skip the value of a parameter, press enter. This will accept the default/recently saved (if any) value for that parameter.
