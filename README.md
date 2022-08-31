@@ -86,7 +86,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
 
 ## 🧋 Contribution
 
-Pull requests and issue reports are welcome 😊 !
+ Pull requests, issue reports and suggestions are welcome 😊 !
 
 ## :clap: A Big Thanks To
 
