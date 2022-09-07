@@ -73,6 +73,7 @@ A Windows based program that gives voice reminder based on *low*, *critical*, *m
   + Enable voice - no
   + Voice assistant - Zira
   + Voice rate - 2
++ If the program has been stopped, it can be re-triggered using `Install.bat` file.
 
 ## Uninstall
 
