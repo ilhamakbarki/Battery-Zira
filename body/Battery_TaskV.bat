@@ -118,7 +118,10 @@ if exist %batLV% (
 ping 127.0.0.1 -n %wait% > nul
 goto :loop
 :stop
-start Stop_Msg.vbs
+set "fileSM=Stop_Msg.vbs"
+if exist %fileSM% (
+	start %fileSM%
+)
 exit /b %errorlevel%
 :: End of Main Function
 :: Battery Level Initialization Function
